@@ -30,3 +30,6 @@
 ### Tensorflow/PyTorch/Autograd Tools
 1. TF Specialization Course - https://www.deeplearning.ai/tensorflow-specialization/
 
+### Practical DL for Competitions
+1. FastAI by Jeremy Howard - https://www.fast.ai/ 
+
