@@ -16,6 +16,9 @@
 ### Unsupervised Learning
 1. Deep Unsupervised Learning at Berkeley (2019) - https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos
 
+### Generative Modeling
+1. Variational Autoencoders - Best Lecture by Ali Ghodsi - https://www.youtube.com/watch?v=uaaqyVS9-rM
+
 ### DL for NLP
 1. Deep Learning for NLP, Stanford Course by Chris Manning - https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
