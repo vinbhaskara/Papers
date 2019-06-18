@@ -6,6 +6,7 @@
 3. Matrix Capsules with EM Routing (ICLR 2018) - https://openreview.net/pdf?id=HJWLfGWRb
 4. Transforming Auto-encoders https://www.cs.toronto.edu/~hinton/absps/transauto6.pdf
 5. Recent video by Hinton including the EM Routing paper https://www.youtube.com/watch?v=x5Vxk9twXlE 
+6. Stacked Capsule Autoencoders https://arxiv.org/pdf/1906.06818.pdf (Unsupervised learning)
 
 ### Playing with the Loss function and Weight space
 1. Model-agnostic Meta Learning (ICML 2017) - https://arxiv.org/pdf/1703.03400.pdf 
