@@ -18,8 +18,9 @@
 ### Optimization
 1. K-FAC: https://arxiv.org/pdf/1503.05671.pdf
 
-### Temporary Memory (Memory Networks)
+### Temporary Memory (Memory Networks and others)
 1. Weston, Chopra and Bordes. https://arxiv.org/pdf/1410.3916.pdf
+2. Fast-weights like associative memory using Meta-Learning. The weights change as a function of the input at inference additively to the learned static weights. https://eccv2018.org/openaccess/content_ECCV_2018/papers/Damien_Teney_Visual_Question_Answering_ECCV_2018_paper.pdf
 
 ### Neuroscience Papers (e.g. Hebbian Synapses, Plasticity, etc)
 1. Check references of (Hinton & Plaut, 1987, Fast-weights paper). 
